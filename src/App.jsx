@@ -10,7 +10,7 @@ import {
 
 /* ---------- COSTANTI & LOGO ---------- */
 const COLORS = ["#4f46e5", "#06b6d4", "#22c55e", "#f59e0b", "#ef4444", "#8b5cf6"];
-const LOGO   = '../src/unipolsai-assicurazioni-vector-logo.png';   // salva l’immagine in /public
+const LOGO   = '../src/unipolsai-assicurazioni-logo.png';   // salva l’immagine in /public
 
 /* ---------- DATI DEMO “SERIE A” ---------- */
 const SEED_CUSTOMERS = [

@@ -8,12 +8,10 @@ import {
     LineChart, Line, AreaChart, Area
 } from "recharts";
 
-import logo from '../src/unipolsai-assicurazioni-logo.png'
 
 /* ---------- COSTANTI & LOGO ---------- */
 const COLORS = ["#4f46e5", "#06b6d4", "#22c55e", "#f59e0b", "#ef4444", "#8b5cf6"];
-const LOGO   =  {logo}   // salva l’immagine in /public
-
+import LOGO from "./assets/unipolsai-assicurazioni-logo.png";
 /* ---------- DATI DEMO “SERIE A” ---------- */
 const SEED_CUSTOMERS = [
     { id:"C01", name:"Alessandro Neri", email:"alessandro.neri@mail.com", phone:"347‑8214560" },
